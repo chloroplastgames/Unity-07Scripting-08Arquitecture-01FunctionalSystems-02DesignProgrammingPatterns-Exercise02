@@ -4,7 +4,7 @@
 
 **Descripción:**
 
-![](http://git.azuritetechs.com:82/learning/programming/unity/scripting/08-arquitecture/01-functional-systems/02-design-programming-patterns/exercise-01/-/raw/master/readme_resources/screenshot.png "Mock up")
+![](http://git.azuritetechs.com:82/learning/programming/unity/scripting/08-arquitecture/01-functional-systems/02-design-programming-patterns/exercise-02/-/raw/master/readme_resources/screenshot.png "Mock up")
 
 Desarrollo de un videojuego infinito por turnos para un jugador en el que el jugador se enfrenta a un enemigo por combate y cada combate supone un nivel del juego.
 
@@ -20,7 +20,7 @@ Una vez se resuelve el turno se comprueba si el jugador o el enemigo han muerto:
 
 
 **Objetivos:**
-1. Crear los siguientes sistemas e implementar el patrón command:
+1. Crear los siguientes sistemas e implementar el patrón observer:
 * Sistema de interacción de las acciones del jugador y del enemigo.
 * Sistema de cálculo de gasto de energía de las acciones del jugador.
 * Sistema de gestión de niveles del juego.
